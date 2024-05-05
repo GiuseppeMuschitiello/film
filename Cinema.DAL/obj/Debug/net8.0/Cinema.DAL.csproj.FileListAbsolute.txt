@@ -1,0 +1,14 @@
+C:\Users\giu_m\Desktop\CatalogoFilm\Cinema.DAL\Cinema.DAL\bin\Debug\net8.0\Cinema.DAL.deps.json
+C:\Users\giu_m\Desktop\CatalogoFilm\Cinema.DAL\Cinema.DAL\bin\Debug\net8.0\Cinema.DAL.runtimeconfig.json
+C:\Users\giu_m\Desktop\CatalogoFilm\Cinema.DAL\Cinema.DAL\bin\Debug\net8.0\Cinema.DAL.dll
+C:\Users\giu_m\Desktop\CatalogoFilm\Cinema.DAL\Cinema.DAL\bin\Debug\net8.0\Cinema.DAL.pdb
+C:\Users\giu_m\Desktop\CatalogoFilm\Cinema.DAL\Cinema.DAL\obj\Debug\net8.0\Cinema.DAL.csproj.AssemblyReference.cache
+C:\Users\giu_m\Desktop\CatalogoFilm\Cinema.DAL\Cinema.DAL\obj\Debug\net8.0\Cinema.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giu_m\Desktop\CatalogoFilm\Cinema.DAL\Cinema.DAL\obj\Debug\net8.0\Cinema.DAL.AssemblyInfoInputs.cache
+C:\Users\giu_m\Desktop\CatalogoFilm\Cinema.DAL\Cinema.DAL\obj\Debug\net8.0\Cinema.DAL.AssemblyInfo.cs
+C:\Users\giu_m\Desktop\CatalogoFilm\Cinema.DAL\Cinema.DAL\obj\Debug\net8.0\Cinema.DAL.csproj.CoreCompileInputs.cache
+C:\Users\giu_m\Desktop\CatalogoFilm\Cinema.DAL\Cinema.DAL\obj\Debug\net8.0\Cinema.DAL.dll
+C:\Users\giu_m\Desktop\CatalogoFilm\Cinema.DAL\Cinema.DAL\obj\Debug\net8.0\refint\Cinema.DAL.dll
+C:\Users\giu_m\Desktop\CatalogoFilm\Cinema.DAL\Cinema.DAL\obj\Debug\net8.0\Cinema.DAL.pdb
+C:\Users\giu_m\Desktop\CatalogoFilm\Cinema.DAL\Cinema.DAL\obj\Debug\net8.0\Cinema.DAL.genruntimeconfig.cache
+C:\Users\giu_m\Desktop\CatalogoFilm\Cinema.DAL\Cinema.DAL\obj\Debug\net8.0\ref\Cinema.DAL.dll
